@@ -1,0 +1,33 @@
+
+.container{
+    display:inline-block;
+   height:400px;
+    width:400px;
+}
+.container p{
+    color:rgb(226, 203, 203);
+    font-weight: bold;
+}
+body{
+    background-color:rgb(57, 127, 143)
+}
+
+
+div h1{
+    font-weight: bolder;
+    font-size:50px;
+    text-align: center;
+    padding:5%;
+    background-color:rgb(204, 196, 209);
+    position:relative;
+    margin-top: 0%;
+
+}
+h2{
+    font-weight:bold;
+    font-size: xx-large;
+}
+.search{
+    width:15px;
+    height:15px
+}
